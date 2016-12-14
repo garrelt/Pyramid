@@ -1,0 +1,6 @@
+50000.0  ! blackbody temperature
+2.5      ! power-law index
+2     ! Box size (Mpc)
+0.0e10   ! luminosity
+B        ! use which source?
+C        ! use which field
